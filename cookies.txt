@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dibujardesdecero.com	TRUE	/	FALSE	1999999999	pbid	1cceb9515f5754fb20095bcdec5896c0d1040109c1886b70f730f3c9591925a0
+

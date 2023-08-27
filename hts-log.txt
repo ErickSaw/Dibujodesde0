@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Aug 2023 11:58:17 at https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D -O1 "C:\Users\Erick Lopez\Desktop\calistenia\rt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:58:19	Warning: 	Note: due to https://dibujardesdecero.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:58:28	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): launcher.hotmart.com/launcher.js
+11:59:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/1-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/6-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/2-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/3-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/7-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/4-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:30	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/https:/dibujardesdecero.com/wp-content/uploads/2021/05/5-1.png (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:32	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/window.top.location.href (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:32	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/document.referrer (from https://dibujardesdecero.com/curso-online-cupon-a/?ref=H70268968D)
+11:59:35	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/01.png (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:35	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/INSTA.png (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:36	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/ojo.png (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:37	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/CERTIFICADO.png (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:37	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/02.png (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/09/photo5102827735478282644-1.jpg (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/98330290_548985619319906_7993573584105038110_n.jpg (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/122809629_2408043349504756_2336847501083761949_n.jpg (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/161440145_279252020270788_3140179060003003056_n.jpg (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/167390084_3988276974569989_7229937812489464600_n.jpg (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/wp-content/uploads/2021/10/209249755_326540522536063_1121502354778953453_n.jpg (from https://dibujardesdecero.com/wp-content/uploads/elementor/css/post-15971.css?ver=1692564073)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/e.src (from https://dibujardesdecero.com/curso-online-cupon-a/)
+11:59:38	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/Firefox/ (from https://dibujardesdecero.com/curso-online-cupon-a/)
+11:59:40	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/curso-online-cupon-a/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+11:59:40	Error: 	"Not Found" (404) at link https://dibujardesdecero.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 23 seconds : 99 links scanned, 73 files written (8664175 bytes overall) [8016326 bytes received at 96582 bytes/sec], 2753927 bytes transferred using HTTP compression in 29 files, ratio 29%, 5.7 requests per connection
+(25 errors, 2 warnings, 0 messages)
